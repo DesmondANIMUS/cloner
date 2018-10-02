@@ -4,7 +4,7 @@ Cloner is a small forensic imaging tool. It's features include:
 2. Calculates MD5 & SHA256 hashes of the image created.
 
 # How to use (executable binary)
-sudo ddgo <path to device> <path to output image file>
+`sudo ddgo <path to device> <path to output image file>`
 
 # Open for contribution
 ## Instructions
